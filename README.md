@@ -24,13 +24,13 @@
   <a href="https://github.com/Priyanshu-Baghel">
     <img src="https://img.shields.io/badge/GitHub-Priyanshu--Baghel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/priyanshu-works">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:priyanshuworksofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://www.codebypriyanshu.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -57,7 +57,7 @@ const priyanshu = {
     ],
     expertise: ["Machine Learning", "Deep Learning", "Web Development", "Data Science"],
     collaboration: "Open to AI/ML projects and innovative web solutions",
-    funFact: "I train neural networks by day and debug them by night & I'm debug code with console.log() and I'm not ashmed no it."
+    funFact: "I train neural networks by day and debug them by night & In Website, I'm debug code with console.log() and I'm not ashamed no it. "
 };
 ```
 
@@ -154,25 +154,31 @@ I can turn ☕ into models and 🍕 into code
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Baghel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Baghel&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Baghel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Baghel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph"/>
+  <img 
+    width="100%" 
+    height="195px" 
+    src="https://streak-stats.demolab.com?user=Priyanshu-Baghel&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" 
+    alt="GitHub Streak"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Baghel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img 
+    width="100%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Baghel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&custom_title=Contribution%20Graph" 
+    alt="Contribution Graph"
+  />
 </div>
 
----
+<br/>
+</div>
+
 
 ### 🎯 Current Focus Areas
 
@@ -214,13 +220,13 @@ I can turn ☕ into models and 🍕 into code
 **🌟 Open to opportunities in AI/ML Engineering, Full Stack Development, NLP Projects, and Research Collaborations**
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/priyanshu-works">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:priyanshuworksofficial@gmail.com">
     <img src="https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://codebypriyanshu.com">
     <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
