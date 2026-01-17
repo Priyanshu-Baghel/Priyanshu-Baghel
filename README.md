@@ -24,13 +24,13 @@
   <a href="https://github.com/Priyanshu-Baghel">
     <img src="https://img.shields.io/badge/GitHub-Priyanshu--Baghel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/priyanshu-works">
+  <a href="https://www.linkedin.com/in/priyanshu-works/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:priyanshuworksofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.codebypriyanshu.com">
+  <a href="https://www.codebypriyanshu.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
